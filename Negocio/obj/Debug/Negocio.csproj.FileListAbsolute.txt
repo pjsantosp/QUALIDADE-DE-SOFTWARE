@@ -1,0 +1,5 @@
+C:\8º Período\Tópicos avançados em informática 2 TCC\SISTEMA ECELULA\QualidadeDeSoftware\Negocio\bin\Debug\Negocio.dll
+C:\8º Período\Tópicos avançados em informática 2 TCC\SISTEMA ECELULA\QualidadeDeSoftware\Negocio\bin\Debug\Negocio.pdb
+C:\8º Período\Tópicos avançados em informática 2 TCC\SISTEMA ECELULA\QualidadeDeSoftware\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\8º Período\Tópicos avançados em informática 2 TCC\SISTEMA ECELULA\QualidadeDeSoftware\Negocio\obj\Debug\Negocio.dll
+C:\8º Período\Tópicos avançados em informática 2 TCC\SISTEMA ECELULA\QualidadeDeSoftware\Negocio\obj\Debug\Negocio.pdb
