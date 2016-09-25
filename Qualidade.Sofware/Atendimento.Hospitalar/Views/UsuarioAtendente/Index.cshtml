@@ -1,0 +1,42 @@
+﻿@model IEnumerable<Atendimento.Hospitalar.Models.UsuarioAtendente>
+
+<h4>Lista de Atendentes</h4>
+
+<p>
+    @Html.ActionLink("Cadastrar", "Novo")
+</p>
+<table class="table table-bordered">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Nome)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Senha)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Login)
+        </th>
+        <th>
+            @Html.Label("Opções")
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Senha)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Login)
+            </td>
+            <td>
+                <a title="Alterar" class="btn btn-primary" href="@Url.Action("Alterar", "UsuarioAtendente", new { id = item.AtendenteId})">Alterar</a>
+            </td>
+        </tr>
+    }
+
+</table>

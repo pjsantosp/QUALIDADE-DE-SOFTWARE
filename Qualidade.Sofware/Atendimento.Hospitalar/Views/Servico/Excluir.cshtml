@@ -1,0 +1,25 @@
+﻿@model Atendimento.Hospitalar.Models.Servico
+<h3>Tem Certeza da Exclusão?</h3>
+<div>
+    <h4>Servico</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.Label("Descrição")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Descricao)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-danger" /> |
+            @Html.ActionLink("Não", "Index",null, new { @class="btn btn-primary"})
+        </div>
+    }
+</div>

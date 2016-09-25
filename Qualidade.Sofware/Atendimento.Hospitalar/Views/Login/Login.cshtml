@@ -1,0 +1,36 @@
+﻿
+@{
+    Layout = null;
+}
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Login</title>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+    @Html.Partial("_ErrosSystem")
+    <h3 class="text-center">Login</h3>
+    <hr />
+    @using (Html.BeginForm())
+    {
+
+      <br /><br /><br /><br /><br />
+        <div class="row">
+            <div class="col-md-2 col-md-offset-5 form-group">
+                <label class="control-label">Login</label><br />
+                <input type="text" name="login" value="" class="form-control"/><br />
+                <label class="control-label">Senha</label><br />
+                <input type="password" name="senha" value="" class="form-control"/><br />
+                <input type="submit" name="name" value="Entrar" class="btn btn-primary" />
+            </div>
+        </div>
+
+    }
+
+</body>
+</html>
+

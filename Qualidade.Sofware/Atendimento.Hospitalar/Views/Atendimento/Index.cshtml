@@ -1,0 +1,36 @@
+﻿@model IEnumerable<Atendimento.Hospitalar.Models.Atendimento>
+<h2>Lista de Atendimentos</h2>
+
+<p>
+    @Html.ActionLink("Novo Atendimento", "Novo", null, new { @class = "btn btn-primary" })
+</p>
+<table class="table table-bordered">
+    <tr>
+        <th>
+            @Html.Label("Data do Atendimento")
+        </th>
+        <th>
+            @Html.Label("Paciente")
+        </th>
+        <th>
+            @Html.Label("Opções")
+        </th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Data)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Paciente.Nome)
+        </td>
+        <td>
+            <a title="Alterar" class="btn btn-primary" href="@Url.Action("Alterar", "Atendimento", new { id = item.AtendimentoId})">Alterar</a>
+            <a title="Excluir" class="btn btn-danger" href="@Url.Action("Excluir", "Atendimento" ,new { id = item.AtendimentoId })">Excluir</a>
+
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,114 @@
+c:\users\83025308249\documents\visual studio 2015\Projects\Qualidade.Sofware\Atendimento.Hospitalar\obj\Debug\Atendimento.Hospitalar.csprojResolveAssemblyReference.cache
+c:\users\83025308249\documents\visual studio 2015\Projects\Qualidade.Sofware\Atendimento.Hospitalar\bin\ApplicationInsights.config
+c:\users\83025308249\documents\visual studio 2015\Projects\Qualidade.Sofware\Atendimento.Hospitalar\bin\roslyn\csc.exe
+c:\users\83025308249\documents\visual studio 2015\Projects\Qualidade.Sofware\Atendimento.Hospitalar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\83025308249\documents\visual studio 2015\Projects\Qualidade.Sofware\Atendimento.Hospitalar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\83025308249\documents\visual studio 2015\Projects\Qualidade.Sofware\Atendimento.Hospitalar\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\83025308249\documents\visual studio 2015\Projects\Qualidade.Sofware\Atendimento.Hospitalar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\83025308249\documents\visual studio 2015\Projects\Qualidade.Sofware\Atendimento.Hospitalar\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\83025308249\documents\visual studio 2015\Projects\Qualidade.Sofware\Atendimento.Hospitalar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\83025308249\documents\visual studio 2015\Projects\Qualidade.Sofware\Atendimento.Hospitalar\bin\roslyn\System.Collections.Immutable.dll
+c:\users\83025308249\documents\visual studio 2015\Projects\Qualidade.Sofware\Atendimento.Hospitalar\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\83025308249\documents\visual studio 2015\Projects\Qualidade.Sofware\Atendimento.Hospitalar\bin\roslyn\vbc.exe
+c:\users\83025308249\documents\visual studio 2015\Projects\Qualidade.Sofware\Atendimento.Hospitalar\bin\roslyn\VBCSCompiler.exe
+c:\users\83025308249\documents\visual studio 2015\Projects\Qualidade.Sofware\Atendimento.Hospitalar\bin\roslyn\VBCSCompiler.exe.config
+c:\users\83025308249\documents\visual studio 2015\Projects\Qualidade.Sofware\Atendimento.Hospitalar\bin\Atendimento.Hospitalar.dll.config
+c:\users\83025308249\documents\visual studio 2015\Projects\Qualidade.Sofware\Atendimento.Hospitalar\bin\Atendimento.Hospitalar.dll
+c:\users\83025308249\documents\visual studio 2015\Projects\Qualidade.Sofware\Atendimento.Hospitalar\bin\Atendimento.Hospitalar.pdb
+c:\users\83025308249\documents\visual studio 2015\Projects\Qualidade.Sofware\Atendimento.Hospitalar\bin\Antlr3.Runtime.dll
+c:\users\83025308249\documents\visual studio 2015\Projects\Qualidade.Sofware\Atendimento.Hospitalar\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\83025308249\documents\visual studio 2015\Projects\Qualidade.Sofware\Atendimento.Hospitalar\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\83025308249\documents\visual studio 2015\Projects\Qualidade.Sofware\Atendimento.Hospitalar\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\83025308249\documents\visual studio 2015\Projects\Qualidade.Sofware\Atendimento.Hospitalar\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\83025308249\documents\visual studio 2015\Projects\Qualidade.Sofware\Atendimento.Hospitalar\bin\Microsoft.AI.Web.dll
+c:\users\83025308249\documents\visual studio 2015\Projects\Qualidade.Sofware\Atendimento.Hospitalar\bin\Microsoft.AI.WindowsServer.dll
+c:\users\83025308249\documents\visual studio 2015\Projects\Qualidade.Sofware\Atendimento.Hospitalar\bin\Microsoft.ApplicationInsights.dll
+c:\users\83025308249\documents\visual studio 2015\Projects\Qualidade.Sofware\Atendimento.Hospitalar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\83025308249\documents\visual studio 2015\Projects\Qualidade.Sofware\Atendimento.Hospitalar\bin\Microsoft.Web.Infrastructure.dll
+c:\users\83025308249\documents\visual studio 2015\Projects\Qualidade.Sofware\Atendimento.Hospitalar\bin\Newtonsoft.Json.dll
+c:\users\83025308249\documents\visual studio 2015\Projects\Qualidade.Sofware\Atendimento.Hospitalar\bin\System.Web.Helpers.dll
+c:\users\83025308249\documents\visual studio 2015\Projects\Qualidade.Sofware\Atendimento.Hospitalar\bin\System.Web.Mvc.dll
+c:\users\83025308249\documents\visual studio 2015\Projects\Qualidade.Sofware\Atendimento.Hospitalar\bin\System.Web.Optimization.dll
+c:\users\83025308249\documents\visual studio 2015\Projects\Qualidade.Sofware\Atendimento.Hospitalar\bin\System.Web.Razor.dll
+c:\users\83025308249\documents\visual studio 2015\Projects\Qualidade.Sofware\Atendimento.Hospitalar\bin\System.Web.WebPages.Deployment.dll
+c:\users\83025308249\documents\visual studio 2015\Projects\Qualidade.Sofware\Atendimento.Hospitalar\bin\System.Web.WebPages.dll
+c:\users\83025308249\documents\visual studio 2015\Projects\Qualidade.Sofware\Atendimento.Hospitalar\bin\System.Web.WebPages.Razor.dll
+c:\users\83025308249\documents\visual studio 2015\Projects\Qualidade.Sofware\Atendimento.Hospitalar\bin\WebGrease.dll
+c:\users\83025308249\documents\visual studio 2015\Projects\Qualidade.Sofware\Atendimento.Hospitalar\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\83025308249\documents\visual studio 2015\Projects\Qualidade.Sofware\Atendimento.Hospitalar\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\83025308249\documents\visual studio 2015\Projects\Qualidade.Sofware\Atendimento.Hospitalar\bin\Microsoft.AI.Web.xml
+c:\users\83025308249\documents\visual studio 2015\Projects\Qualidade.Sofware\Atendimento.Hospitalar\bin\Microsoft.AI.WindowsServer.xml
+c:\users\83025308249\documents\visual studio 2015\Projects\Qualidade.Sofware\Atendimento.Hospitalar\bin\Microsoft.ApplicationInsights.xml
+c:\users\83025308249\documents\visual studio 2015\Projects\Qualidade.Sofware\Atendimento.Hospitalar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\83025308249\documents\visual studio 2015\Projects\Qualidade.Sofware\Atendimento.Hospitalar\bin\System.Web.Helpers.xml
+c:\users\83025308249\documents\visual studio 2015\Projects\Qualidade.Sofware\Atendimento.Hospitalar\bin\System.Web.Mvc.xml
+c:\users\83025308249\documents\visual studio 2015\Projects\Qualidade.Sofware\Atendimento.Hospitalar\bin\System.Web.Optimization.xml
+c:\users\83025308249\documents\visual studio 2015\Projects\Qualidade.Sofware\Atendimento.Hospitalar\bin\System.Web.Razor.xml
+c:\users\83025308249\documents\visual studio 2015\Projects\Qualidade.Sofware\Atendimento.Hospitalar\bin\System.Web.WebPages.xml
+c:\users\83025308249\documents\visual studio 2015\Projects\Qualidade.Sofware\Atendimento.Hospitalar\bin\System.Web.WebPages.Deployment.xml
+c:\users\83025308249\documents\visual studio 2015\Projects\Qualidade.Sofware\Atendimento.Hospitalar\bin\System.Web.WebPages.Razor.xml
+c:\users\83025308249\documents\visual studio 2015\Projects\Qualidade.Sofware\Atendimento.Hospitalar\bin\Antlr3.Runtime.pdb
+c:\users\83025308249\documents\visual studio 2015\Projects\Qualidade.Sofware\Atendimento.Hospitalar\bin\Newtonsoft.Json.xml
+c:\users\83025308249\documents\visual studio 2015\Projects\Qualidade.Sofware\Atendimento.Hospitalar\obj\Debug\Atendimento.Hospitalar.dll
+c:\users\83025308249\documents\visual studio 2015\Projects\Qualidade.Sofware\Atendimento.Hospitalar\obj\Debug\Atendimento.Hospitalar.pdb
+C:\Users\83025308249\Documents\Visual Studio 2015\Projects\Qualidade.Sofware\Atendimento.Hospitalar\bin\EntityFramework.dll
+C:\Users\83025308249\Documents\Visual Studio 2015\Projects\Qualidade.Sofware\Atendimento.Hospitalar\bin\EntityFramework.SqlServer.dll
+C:\Users\83025308249\Documents\Visual Studio 2015\Projects\Qualidade.Sofware\Atendimento.Hospitalar\bin\EntityFramework.xml
+C:\Users\83025308249\Documents\Visual Studio 2015\Projects\Qualidade.Sofware\Atendimento.Hospitalar\bin\EntityFramework.SqlServer.xml
+D:\Uniron\8º Perido\Qualidade.Sofware\Atendimento.Hospitalar\bin\ApplicationInsights.config
+D:\Uniron\8º Perido\Qualidade.Sofware\Atendimento.Hospitalar\bin\roslyn\csc.exe
+D:\Uniron\8º Perido\Qualidade.Sofware\Atendimento.Hospitalar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Uniron\8º Perido\Qualidade.Sofware\Atendimento.Hospitalar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Uniron\8º Perido\Qualidade.Sofware\Atendimento.Hospitalar\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Uniron\8º Perido\Qualidade.Sofware\Atendimento.Hospitalar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Uniron\8º Perido\Qualidade.Sofware\Atendimento.Hospitalar\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Uniron\8º Perido\Qualidade.Sofware\Atendimento.Hospitalar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Uniron\8º Perido\Qualidade.Sofware\Atendimento.Hospitalar\bin\roslyn\System.Collections.Immutable.dll
+D:\Uniron\8º Perido\Qualidade.Sofware\Atendimento.Hospitalar\bin\roslyn\System.Reflection.Metadata.dll
+D:\Uniron\8º Perido\Qualidade.Sofware\Atendimento.Hospitalar\bin\roslyn\vbc.exe
+D:\Uniron\8º Perido\Qualidade.Sofware\Atendimento.Hospitalar\bin\roslyn\VBCSCompiler.exe
+D:\Uniron\8º Perido\Qualidade.Sofware\Atendimento.Hospitalar\bin\roslyn\VBCSCompiler.exe.config
+D:\Uniron\8º Perido\Qualidade.Sofware\Atendimento.Hospitalar\bin\Atendimento.Hospitalar.dll.config
+D:\Uniron\8º Perido\Qualidade.Sofware\Atendimento.Hospitalar\bin\Atendimento.Hospitalar.dll
+D:\Uniron\8º Perido\Qualidade.Sofware\Atendimento.Hospitalar\bin\Atendimento.Hospitalar.pdb
+D:\Uniron\8º Perido\Qualidade.Sofware\Atendimento.Hospitalar\bin\Antlr3.Runtime.dll
+D:\Uniron\8º Perido\Qualidade.Sofware\Atendimento.Hospitalar\bin\EntityFramework.dll
+D:\Uniron\8º Perido\Qualidade.Sofware\Atendimento.Hospitalar\bin\EntityFramework.SqlServer.dll
+D:\Uniron\8º Perido\Qualidade.Sofware\Atendimento.Hospitalar\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Uniron\8º Perido\Qualidade.Sofware\Atendimento.Hospitalar\bin\Microsoft.AI.DependencyCollector.dll
+D:\Uniron\8º Perido\Qualidade.Sofware\Atendimento.Hospitalar\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Uniron\8º Perido\Qualidade.Sofware\Atendimento.Hospitalar\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Uniron\8º Perido\Qualidade.Sofware\Atendimento.Hospitalar\bin\Microsoft.AI.Web.dll
+D:\Uniron\8º Perido\Qualidade.Sofware\Atendimento.Hospitalar\bin\Microsoft.AI.WindowsServer.dll
+D:\Uniron\8º Perido\Qualidade.Sofware\Atendimento.Hospitalar\bin\Microsoft.ApplicationInsights.dll
+D:\Uniron\8º Perido\Qualidade.Sofware\Atendimento.Hospitalar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Uniron\8º Perido\Qualidade.Sofware\Atendimento.Hospitalar\bin\Microsoft.Web.Infrastructure.dll
+D:\Uniron\8º Perido\Qualidade.Sofware\Atendimento.Hospitalar\bin\Newtonsoft.Json.dll
+D:\Uniron\8º Perido\Qualidade.Sofware\Atendimento.Hospitalar\bin\System.Web.Helpers.dll
+D:\Uniron\8º Perido\Qualidade.Sofware\Atendimento.Hospitalar\bin\System.Web.Mvc.dll
+D:\Uniron\8º Perido\Qualidade.Sofware\Atendimento.Hospitalar\bin\System.Web.Optimization.dll
+D:\Uniron\8º Perido\Qualidade.Sofware\Atendimento.Hospitalar\bin\System.Web.Razor.dll
+D:\Uniron\8º Perido\Qualidade.Sofware\Atendimento.Hospitalar\bin\System.Web.WebPages.Deployment.dll
+D:\Uniron\8º Perido\Qualidade.Sofware\Atendimento.Hospitalar\bin\System.Web.WebPages.dll
+D:\Uniron\8º Perido\Qualidade.Sofware\Atendimento.Hospitalar\bin\System.Web.WebPages.Razor.dll
+D:\Uniron\8º Perido\Qualidade.Sofware\Atendimento.Hospitalar\bin\WebGrease.dll
+D:\Uniron\8º Perido\Qualidade.Sofware\Atendimento.Hospitalar\bin\EntityFramework.xml
+D:\Uniron\8º Perido\Qualidade.Sofware\Atendimento.Hospitalar\bin\EntityFramework.SqlServer.xml
+D:\Uniron\8º Perido\Qualidade.Sofware\Atendimento.Hospitalar\bin\Microsoft.AI.DependencyCollector.xml
+D:\Uniron\8º Perido\Qualidade.Sofware\Atendimento.Hospitalar\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Uniron\8º Perido\Qualidade.Sofware\Atendimento.Hospitalar\bin\Microsoft.AI.Web.xml
+D:\Uniron\8º Perido\Qualidade.Sofware\Atendimento.Hospitalar\bin\Microsoft.AI.WindowsServer.xml
+D:\Uniron\8º Perido\Qualidade.Sofware\Atendimento.Hospitalar\bin\Microsoft.ApplicationInsights.xml
+D:\Uniron\8º Perido\Qualidade.Sofware\Atendimento.Hospitalar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Uniron\8º Perido\Qualidade.Sofware\Atendimento.Hospitalar\bin\System.Web.Helpers.xml
+D:\Uniron\8º Perido\Qualidade.Sofware\Atendimento.Hospitalar\bin\System.Web.Mvc.xml
+D:\Uniron\8º Perido\Qualidade.Sofware\Atendimento.Hospitalar\bin\System.Web.Optimization.xml
+D:\Uniron\8º Perido\Qualidade.Sofware\Atendimento.Hospitalar\bin\System.Web.Razor.xml
+D:\Uniron\8º Perido\Qualidade.Sofware\Atendimento.Hospitalar\bin\System.Web.WebPages.xml
+D:\Uniron\8º Perido\Qualidade.Sofware\Atendimento.Hospitalar\bin\System.Web.WebPages.Deployment.xml
+D:\Uniron\8º Perido\Qualidade.Sofware\Atendimento.Hospitalar\bin\System.Web.WebPages.Razor.xml
+D:\Uniron\8º Perido\Qualidade.Sofware\Atendimento.Hospitalar\bin\Antlr3.Runtime.pdb
+D:\Uniron\8º Perido\Qualidade.Sofware\Atendimento.Hospitalar\bin\Newtonsoft.Json.xml
+D:\Uniron\8º Perido\Qualidade.Sofware\Atendimento.Hospitalar\obj\Debug\Atendimento.Hospitalar.csprojResolveAssemblyReference.cache
+D:\Uniron\8º Perido\Qualidade.Sofware\Atendimento.Hospitalar\obj\Debug\Atendimento.Hospitalar.dll
+D:\Uniron\8º Perido\Qualidade.Sofware\Atendimento.Hospitalar\obj\Debug\Atendimento.Hospitalar.pdb
